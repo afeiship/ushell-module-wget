@@ -1,6 +1,6 @@
 {
-  "name": "ushell-module-wget",
-  "version": "0.0.1",
+  "name": "@feizheng/ushell-module-wget",
+  "version": "1.0.0",
   "description": "Unix like shell module for wget.",
   "main": "index.sh",
   "repository": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/afeiship/ushell-module-wget/issues"
   },
-  "homepage": "https://github.com/afeiship/ushell-module-wget#readme"
+  "homepage": "https://github.com/afeiship/ushell-module-wget#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
 }
