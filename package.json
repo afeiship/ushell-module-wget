@@ -1,5 +1,5 @@
 {
-  "name": "@feizheng/ushell-module-wget",
+  "name": "@jswork/ushell-module-wget",
   "version": "1.0.0",
   "description": "Unix like shell module for wget.",
   "main": "index.sh",
@@ -9,10 +9,11 @@
   },
   "keywords": [
     "ushell",
-    "unix",
-    "shell",
-    "system",
-    "infomation"
+    "wget",
+    "offline",
+    "cli",
+    "command",
+    "alias"
   ],
   "author": "afei",
   "license": "MIT",
